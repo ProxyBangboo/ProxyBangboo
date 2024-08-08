@@ -9,7 +9,7 @@ Saya seorang Software Engineer dengan minat dalam pengembangan web dan kecerdasa
 - 🤝 Saya mencari kolaborasi dalam proyek open-source terkait pengembangan AI atau alat bantu produktivitas.
 - 🙌 Saya butuh bantuan dengan pengoptimalan model deep learning di lingkungan cloud.
 - 💬 Tanya saya tentang JavaScript, React, Node.js, atau bagaimana memulai dengan proyek open-source.
-- 📫 Cara menghubungi saya: ahmad@example.com atau [LinkedIn saya](https://www.linkedin.com/).
+- 📫 Cara menghubungi saya: proxybangboo@example.com atau [LinkedIn saya](https://www.linkedin.com/).
 - 📜 Fakta menarik: Saya pernah membangun aplikasi pemetaan interaktif untuk proyek pelestarian lingkungan.
 
 ## Teknologi yang Dikuasai
